@@ -1,43 +1,88 @@
-# RTL Design with Verilog - VLSI Portfolio
+# RTL Design with Verilog – VLSI Portfolio
 
-18+ Verilog modules | Verified in QuestaSim | Day-wise RTL Series
+Welcome to my RTL Design and Verilog portfolio!
 
-## 📁 Repository Structure
+I am an Electronics and Communication Engineering (ECE) learner interested in VLSI Design and Digital Verification.
 
-| Project | Description | Modules Count |
-| :--- | :--- | :--- |
-| PROJECT_01_4BIT_RCA | 4-bit Ripple Carry Adder | 1 |
-| PROJECT_02_BASIC_GATES | Basic Gates & Adders | 4 |
-| PROJECT_03_COMBINATIONAL | Combinational Circuits | 6 |
-| PROJECT_04_SEQUENTIAL | Latches & Flip-Flops | 8 |
-| **PROJECT_05_REGISTERS_COUNTERS_FSM** | **Registers, Counters & FSM** | **18** |
+This repository showcases my hands-on practice and projects in Digital Electronics, RTL Design, Verilog HDL, and Functional Verification using QuestaSim.
 
-## 🔧 Projects
+## 🛠️ Technical Skills
 
-**PROJECT 01 - 4BIT RCA**
-4-bit RCA using Full Adders
+- **HDL:** Verilog
+- **Simulation Tool:** QuestaSim
+- **Digital Design:** Combinational and Sequential Logic
+- **Verification:** Testbench Development and Functional Simulation
+- **Concepts:** FSM, Counters, Registers, Multiplexers, Encoders, Decoders, Adders and Flip-Flops.
 
-**PROJECT 02 - Basic Gates**
-all_gates, half_adder, full_adder, full_adder_using_half_adder
+## 📂 Project Portfolio
 
-**PROJECT 03 - Combinational**
-mux_2_1, mux_4_1, decoder_2_4, demux_1_4, encoder_4_2, priority_encoder_4_2
+### PROJECT 01 – 4-Bit Ripple Carry Adder
+- Designed a 4-bit Ripple Carry Adder using Verilog.
+- Implemented full adder logic.
+- Verified sum and carry outputs using a testbench.
 
-**PROJECT 04 - Sequential**
-Latches: d_latch, s_r_latch, j_k_latch, t_latch
-Flip-Flops: d_ff, s_r_ff, j_k_ff, t_ff
+### PROJECT 02 – Basic Logic Gates
+- Implemented AND, OR, NOT, NAND, NOR, XOR and XNOR gates.
+- Verified the functionality using Verilog testbenches.
 
-**PROJECT 05 - Registers, Counters & FSM [NEW]**
-*Registers:* SISO, SIPO, PISO, PIPO, Universal Shift Reg, Buffer Reg
-*Counters:* MOD-5, MOD-10, MOD-12, MOD-16, UP/DOWN, Ring, Johnson, Gray, Freq Div 2/4/6/8
-*FSM:* Sequence Detectors 1010, 1101 + FSM Counters
+### PROJECT 03 – Combinational Logic
+- Multiplexers and Demultiplexers.
+- Encoders and Decoders.
+- Adders and Subtractors.
+- Combinational circuit design and verification.
 
-## 🛠️ Tools
-Verilog HDL, QuestaSim, Git
+### PROJECT 04 – Sequential Logic
+- SR, D, JK and T Latches.
+- Flip-Flops.
+- Shift Registers.
+- SISO and other sequential circuit implementations.
+
+### PROJECT 05 – Registers, Counters and FSM
+- Mod-N Counters.
+- Up and Down Counters.
+- Frequency Dividers.
+- Mealy and Moore FSM designs.
+- Sequence Detector implementations.
+
+### PROJECT 06 – Smart Parking Management System
+- Designed a Smart Parking Management System using Verilog.
+- Implemented digital control logic.
+- Developed a testbench to verify system functionality.
+
+## 💻 Tools Used
+
+- Verilog HDL
+- QuestaSim 10.7c
+- EDA Playground
+- GitHub
+
+## 🎯 Learning Objectives
+
+- Strengthen digital design fundamentals.
+- Develop RTL coding skills using Verilog.
+- Understand combinational and sequential circuits.
+- Gain practical experience in testbench development.
+- Analyze simulation waveforms and verify functionality.
+- Build a strong foundation in VLSI Design and Digital Verification.
+
+## 📈 Repository Highlights
+
+- 6 Major RTL Design Projects.
+- 40+ Verilog Modules.
+- Design and Testbench Implementations.
+- Hands-on Simulation and Verification.
 
 ## 👩‍💻 Author
-Manisha - ECE | VLSI Enthusiast | Seeking VLSI Internship / Entry Role
 
-## Next Goals
-PROJECT 06 - Advanced FSM & Memory Design
+**Manisha**
+
+Electronics and Communication Engineering (ECE)
+
+Interested in VLSI Design | RTL Design | Digital Verification
+
+---
+
+⭐ Thank you for visiting my repository!
+
+Feel free to explore my projects and provide feedback.
 
